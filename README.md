@@ -1,4 +1,4 @@
-# Web Scraping - 2021 Analytics Summit
+# Web Scraping Workshop - 2021 Analytics Summit
 
 #### Welcome! 
 
