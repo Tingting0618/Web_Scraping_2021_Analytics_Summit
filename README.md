@@ -2,7 +2,7 @@
 
 Copyright 2021 Tingting Duan https://github.com/Tingting0618
 
----
+---- 
 #### Welcome! 
 - Web scraping can be difficult when web pages are dynamic with JavaScript.
 - During this session, we will be learning/coding together to overcome this challenge. 
@@ -17,7 +17,7 @@ Section 4. References<br>
 #### Also Note:
 Please check a website's robots.txt file before scraping and please respect all websites' scraping rules (aka terms and conditions). Happy ethical hacking! 
 
----
+---- 
 
 #### Prep work
 - Step 1: Please install Anaconda https://www.anaconda.com/products/individual
