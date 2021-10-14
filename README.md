@@ -25,9 +25,9 @@ Please check a website's robots.txt file before scraping and please respect all 
 - Step 3: 
   - 1) Please download chromedriver from https://chromedriver.chromium.org/downloads based on your Chrome version and operating system.
   - 2) Please unzip it and save the chromedriver to the repo you downloaded a few minutes ago. 
-- Step 4: Please find the folder that Chrome is located. Mine is here C:\Program Files\Google and copy the entire folder and paste it to the same repo you downloaded a few minutes ago. 
+- Step 4: Please find the folder that Chrome is located (mine is here C:\Program Files\Google) and copy the entire Chrome folder and paste it to the same repo you downloaded a few minutes ago. 
 
   ![2021-10-14 18_32_33-Google](https://user-images.githubusercontent.com/44503223/137409169-e7513953-1da2-449c-b752-5385e0ee822e.png)
 
 
-#### That's all we need. Let's begin.
+#### That's all we need for now. Let's begin. :)
