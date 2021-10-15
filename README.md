@@ -1,4 +1,5 @@
-## Web Scraping with Selenium and Xpath, From Start to Finish - 2021 Nashville Analytics Summit
+## Web Scraping with Selenium and Xpath, From Start to Finish
+### 2021 Nashville Analytics Summit
 
 Copyright 2021 Tingting Duan https://github.com/Tingting0618
 
