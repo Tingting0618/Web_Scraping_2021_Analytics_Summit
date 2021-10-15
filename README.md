@@ -2,7 +2,6 @@
 
 Copyright 2021 Tingting Duan https://github.com/Tingting0618
 
----- 
 #### Welcome! 
 - Web scraping can be difficult when web pages are dynamic with JavaScript.
 - During this session, we will be learning/coding together to overcome this challenge. 
