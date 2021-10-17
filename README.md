@@ -21,7 +21,7 @@ Please check a website's robots.txt file before scraping and please respect all 
 
 #### Prep work
 - Step 1: Please install Anaconda https://www.anaconda.com/products/individual
-- Step 2: Please clone this repo and unzip it
+- Step 2: Please download this repo and unzip it
 - Step 3: 
   - 1) Please download chromedriver from https://chromedriver.chromium.org/downloads based on your Chrome version and operating system.
   - 2) Please unzip it and save the chromedriver to the repo you downloaded a few minutes ago. 
